@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 
 ## Dashboard
-Dashboard is live at following [link] (https://data-dashboard-nauman.herokuapp.com)
+Dashboard is live at following [link](https://data-dashboard-nauman.herokuapp.com)
